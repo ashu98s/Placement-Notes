@@ -3,6 +3,7 @@ Well, I'm not a professional to guide for any interview 😁, but these are some
 
 Feel free to rectify me, for any error found! 🤞
 
+![notes](https://user-images.githubusercontent.com/36065206/147857388-a36b2c52-65ab-47fa-8567-20285d571032.png)
 
 ### Notes list :
 1. Java
