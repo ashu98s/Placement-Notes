@@ -6,4 +6,8 @@ Well, I'm not a professional to guide for any interview 😁, but these are some
 - Android
 - DBMS
 - SQL
-- 
+- Flutter
+- Dart
+- Operating System
+- Software Development Lifecycle
+-
