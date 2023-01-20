@@ -10,4 +10,7 @@ Well, I'm not a professional to guide for any interview 😁, but these are some
 - Dart
 - Operating System
 - Software Development Lifecycle
--
+- Puzzles
+- Git
+- GitHub
+- 
