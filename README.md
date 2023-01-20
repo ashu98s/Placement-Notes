@@ -13,4 +13,5 @@ Well, I'm not a professional to guide for any interview 😁, but these are some
 - Puzzles
 - Git
 - GitHub
+- HR & Managerial Round Questions
 - 
