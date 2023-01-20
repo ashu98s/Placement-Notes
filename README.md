@@ -14,4 +14,6 @@ Well, I'm not a professional to guide for any interview 😁, but these are some
 - Git
 - GitHub
 - HR & Managerial Round Questions
-- 
+- Kotlin
+
+For more content stay tunned!
