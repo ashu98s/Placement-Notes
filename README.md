@@ -11,7 +11,7 @@ Well, I'm not a professional to guide for any interview 😁, but these are some
 - Flutter
 - Dart
 - Operating System
-- Software Development Lifecycle (
+- Software Development Lifecycle (S
 - Puzzles
 - Git
 - GitHub
